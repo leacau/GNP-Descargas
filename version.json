@@ -1,15 +1,15 @@
 {
-  "version": "1.1.1",
-  "releaseDate": "2026-10-01",
-  "title": "Actualización v1.1.1 - Conectividad Red LAN / Wi-Fi y Asistente Tablet",
+  "version": "1.2.0",
+  "releaseDate": "2026-10-02",
+  "title": "Actualización v1.2.0 - Nueva Identidad GNP, Firewall Integrado y Recuperación de Acceso",
   "mandatory": false,
   "changelog": [
-    "Detección y priorización inteligente de adaptadores de red física LAN (cable Ethernet) y Wi-Fi reales",
-    "Filtro automático de adaptadores virtuales o puentes que generaban direcciones IP inaccesibles para tablets",
-    "Generador de Código QR en pantalla para conectar tablets y celulares al instante escaneando con la cámara",
-    "Selector interactivo de interfaces de red con etiquetas descriptivas en el modal de Tablets del Taller",
-    "Guía y asistente de diagnóstico de conectividad local integrado (Firewall, Red Privada, AP Isolation)",
-    "Script auxiliar HABILITAR_FIREWALL_TABLETS.bat para configurar el Firewall de Windows en un solo clic"
+    "Nueva identidad visual oficial de GNP Gestión Taller con paleta de colores Midnight Charcoal, Brushed Steel y Signal Lime",
+    "Nuevos logotipos e isologos oficiales en alta resolución y nuevo icono de aplicación (app.ico y favicon)",
+    "Botón directo 'HABILITAR_FIREWALL_TABLETS' integrado en Configuración y en el asistente de Tablets para abrir el puerto 3001 con 1 clic",
+    "Nuevo sistema de Recuperación de Usuario y Contraseña para el Administrador mediante Clave de Licencia oficial",
+    "Enlace directo de soporte técnico por WhatsApp ante olvido de credenciales o consultas",
+    "Corrección de persistencia de procesos en segundo plano y normalización de actualizaciones automáticas"
   ],
-  "downloadUrl": "https://github.com/leacau/GNP-Descargas/releases/download/v1.1.1/Instalador_GNP_Gestion_Taller_v1.1.1.exe"
+  "downloadUrl": "https://github.com/leacau/GNP-Descargas/releases/download/v1.2.0/Instalador_GNP_Gestion_Taller_v1.2.0.exe"
 }
